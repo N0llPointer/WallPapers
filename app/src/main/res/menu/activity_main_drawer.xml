@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_new"
+            android:icon="@drawable/ic_new"
+            android:title="Новое" />
+        <item
+            android:id="@+id/nav_favourite"
+            android:icon="@drawable/ic_favorite"
+            android:title="Избраное" />
+    </group>
+
+    <!--<item android:title="Категории">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_earth"-->
+                <!--android:title="Земля" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_space"-->
+                <!--android:title="Космос" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

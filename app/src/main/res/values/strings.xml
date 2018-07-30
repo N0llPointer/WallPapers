@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WallPapers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NollPointer</string>
+    <string name="nav_header_subtitle">nollpointer@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+
+    <string name="set_wall_paper">Установить как обои</string>
+    <string name="set_favourite">Добавить в избранное</string>
+    <string name="toast_text">Обои выставлены!</string>
+    <string name="no_images_in_favourite">В избранном пусто</string>
+</resources>
